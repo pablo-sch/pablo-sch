@@ -5,7 +5,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-sch&show_icons=true&count_private=true&bg_color=00000000&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-sch&layout=compact&bg_color=00000000&hide_border=true)
 
-## Projects KeepCoding 👉 [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
+**Projects KeepCoding** 👉 [repos-kc-web-18.md](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
 
 ## Languages and tools
 
