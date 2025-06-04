@@ -37,5 +37,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PabloSch-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pablo-sch-it/)
 [![Discord](https://img.shields.io/badge/Discord-PabloSch%230001-5865F2?style=for-the-badge&logo=discord)](https://discord.com/users/1318260062900457642)
-
-📧 Gmail: pablsch.it.contact [at] gmail [dot] com
