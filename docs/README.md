@@ -2,8 +2,8 @@
 
 # Pablo Abaroa-Schilling
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-sch&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-sch&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-sch&show_icons=true&count_private=true=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-sch&layout=compact=true&bg_color=00000000)
 
 ## Content
 
