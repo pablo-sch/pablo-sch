@@ -1,25 +1,38 @@
 keepcoding-01-javascript-basics
-X Crear README
+OK - README
+OK - Preview
 
 keepcoding-02-html-css
-Listo
+OK - README
+OK - Preview
 
 keepcoding-03-sql-fundamentals  
-X Crear README
+OK - README
+OK - Preview
 
-keepcoding-04-node-backend  
-X Crear README, Agregar Estilos
+keepcoding-04-node-backend
+OK - README
+TODO - Preview
+TODO - Mejorar Estilos
 
-keepcoding-05-frontend-javascript   
-X Mejorar Estilos
+keepcoding-05-frontend-javascript
+OK - README
+OK - Preview
+TODO - Mejorar Estilos
 
-keepcoding-06-front-end-pro 
-X Crear README
+keepcoding-06-front-end-pro
+OK - README
+OK -Preview
 
-keepcoding-07-web-components    
-X Mejorar Estilos
+keepcoding-07-web-components
+OK - README  
+TODO - Preview
+TODO - Mejorar Estilos
 
 keepcoding-08-react-fundamentals
-X
+OK - README
+TODO - Preview
+TODO - Mejorar Estilos
 
-...
+keepcoding-09-TDD-with-javascript
+TODO - README
