@@ -7,9 +7,9 @@
 
 ## Projects and Studies
 
-🔶 KeepCoding - [📂 Index of Proyects](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
+🔶 KeepCoding - 📂 [Index of Proyects](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
 
-🔴 Inacap - [📂 Repository](https://github.com/pablo-sch/inacap-analyst-programmer.git)
+🔴 Inacap - 📂 [Repository](https://github.com/pablo-sch/inacap-analyst-programmer.git)
 
 <!-- - 📂 [Inacap Programmer Analyst](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md-->
 
