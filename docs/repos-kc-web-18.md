@@ -1,4 +1,6 @@
-# KeepCoding - Web 18 Projects
+# KeepCoding Projects
+
+## Full Stack Developer (Web 18)
 
 📂 **01** [javascript-basics](https://github.com/pablo-sch/keepcoding-01-javascript-basics)
 
