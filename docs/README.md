@@ -3,13 +3,13 @@
 ## Pablo Abaroa-Schilling
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-sch&show_icons=true&count_private=true&bg_color=00000000&hide_border=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-sch&layout=compact&bg_color=00000000&hide_border=true)
+![Top Langs](https://readme-stats-pablo.vercel.app/api/top-langs/?username=pablo-sch&exclude_repo=inacap-analyst-programmer&layout=compact&bg_color=00000000&hide_border=true)
 
 ## Projects and Studies
 
 🔶 KeepCoding - 📂 [Index of Proyects](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
 
-🔴 Inacap - 📂 [Repository](https://github.com/pablo-sch/inacap-analyst-programmer.git)
+🔴 Inacap - 📂 [Protfolio](https://github.com/pablo-sch/inacap-analyst-programmer.git)
 
 <!-- - 📂 [Inacap Programmer Analyst](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md-->
 
