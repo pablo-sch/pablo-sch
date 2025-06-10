@@ -15,6 +15,8 @@
 
 ## Languages and tools
 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 ![Java](https://img.shields.io/badge/-Java-green?style=flat&logo=java)
@@ -34,7 +36,6 @@
 ![NetAcad](https://img.shields.io/badge/-NetAcad-1BA0E2?style=flat&logo=cisco)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode)
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D7?style=flat&logo=windows)
-
 
 ## Contact
 
