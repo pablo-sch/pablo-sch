@@ -9,7 +9,7 @@
 
 🔶 KeepCoding - 📂 [Index of Proyects](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md)
 
-🔴 Inacap - 📂 [Protfolio](https://github.com/pablo-sch/inacap-analyst-programmer.git)
+🔴 Inacap - 📂 [Portfolio](https://github.com/pablo-sch/inacap-analyst-programmer.git)
 
 <!-- - 📂 [Inacap Programmer Analyst](https://github.com/pablo-sch/pablo-sch/blob/main/docs/repos-kc-web-18.md-->
 
