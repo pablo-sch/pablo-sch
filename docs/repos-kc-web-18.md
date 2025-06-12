@@ -12,7 +12,7 @@
 
 📂 **05** [frontend-javascript](https://github.com/pablo-sch/keepcoding-05-frontend-javascript)
 
-📂 **06** [front-end-pro](https://github.com/pablo-sch/keepcoding-06-front-end-pro)
+📂 **06** [frontend-pro](https://github.com/pablo-sch/keepcoding-06-front-end-pro)
 
 📂 **07** [web-components](https://github.com/pablo-sch/keepcoding-07-web-components)
 
